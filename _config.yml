@@ -102,9 +102,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:devanshu125@gmail.com
-    - label: "Website"
+    - label: "Resume"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://drive.google.com/file/d/1DS5kZvYx1y1DX05KakxDO_KayGes0vPd/view?usp=sharing"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/devanshu125"
