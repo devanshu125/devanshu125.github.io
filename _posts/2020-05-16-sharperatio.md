@@ -77,6 +77,6 @@ So, which investment should we go for? In 2016, Amazon had a Sharpe ratio twice 
 
 ## Sharpe Ratio Calculator💻
 This is a web app which can tell you which stock to invest in, based on the Sharpe Ratio. Currently I have used 8 different stocks, namely Microsoft, Google, Facebook, Genpact, Tesla, Advanced Micro Devices, Intel and Apple. I will try my best to expand to more companies, but for now, this is it. You can access the web app by clicking [here](https://sharpe-ratio-calculator.herokuapp.com/).
-<video controls>
-  <source src="videos/sharpe_ratio_calc.mp4" type="video/mp4">
+<video width="450" height="310" controls>
+  <source src="{{ site.url }}{{ site.baseurl }}/videos/sharpe_ratio_calc.mp4" type="video/mp4">
 </video>
