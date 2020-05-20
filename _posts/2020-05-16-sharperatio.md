@@ -15,7 +15,7 @@ When we use a stock index instead of risk-free rate, the result is called the In
 
 ## Visualizing daily prices📈
 Before we compare an investment in either Facebook or Amazon with the index of the 500 largest companies in the US, let's visualize the data, so we can understand it in a better way. Let us start by looking at Amazon and Facebook.
-<img src="{{ site.url }}{{ site.baseurl }}/images/sharpe_ratio_blog/ama_fb_graph.jpg" alt="Amazon and Facebook Stock data">
+<img src="{{ site.url }}{{ site.baseurl }}/images/sharpe_ratio_blog/ama_fb_graph.PNG" alt="Amazon and Facebook Stock data">
 Now, let's take a closer look at S&P 500, our benchmark.
 <img src="{{ site.url }}{{ site.baseurl }}/images/sharpe_ratio_blog/sp_500_graph.PNG" alt="S&P 500 data">
 
