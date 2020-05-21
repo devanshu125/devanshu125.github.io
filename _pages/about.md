@@ -5,8 +5,7 @@ header:
   image: "/images/old-trafford.jpg"
 ---
 
-Hello, world👋<br/>
-My name is Devanshu. This section is all about what I've been doing since the past few years.
+Hello, world👋. This section is all about what I've been doing since the past few years.
 
 ## What have I been up to?
 1. 🎓 I'm a freshman at NMIMS University studying Data Science.
