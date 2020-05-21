@@ -7,7 +7,7 @@ header:
   image: "/images/checklist.jpg"
 ---
 
-This section gives a short Introduction about all my projects. The detailed explanation have been posted as blogs and the links have been attached in the respective summaries.
+This section gives a short introduction about all my projects. The detailed explanation have been posted as blogs and the links have been attached in the respective summaries.
 
 ## 1. CS50 Final Project: Budgeting💰
 This was my Final Project for the course CS50's Introduction to Computer Science
