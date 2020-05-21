@@ -6,6 +6,7 @@ header:
 ---
 
 Hello, world👋
+
 My name is Devanshu. This section is all about what I've been doing since the past few years.
 
 ## What have I been up to?
@@ -13,7 +14,7 @@ My name is Devanshu. This section is all about what I've been doing since the pa
 2. 💻 I have been programming since the past few years and have proficient knowledge in
 C, C++ and Python. Web Technologies include HTML, CSS and Flask and Databases, MySQL
 and SQLite3. You can also check out a few [projects](https://devanshu125.github.io/Projects/) which I have done.
-3. ✍️ On this website and [LinkedIn](https://www.linkedin.com/in/devanshu125/), I write articles on Data Science. Mostly its about [mini-projects](https://devanshu125.github.io/sharperatio/) and the [projects](https://devanshu125.github.io/superbowl/) which I do or my understanding about a core concept, for example Natural Language Processing. Please [follow](https://www.linkedin.com/in/devanshu125/) me if that sounds interesting.
+3. ✍️ On this website and [LinkedIn](https://www.linkedin.com/in/devanshu125/), I write articles on Data Science. Mostly its about [mini-projects](https://devanshu125.github.io/sharperatio/) and the [projects](https://devanshu125.github.io/Projects/) which I do or my understanding about a core concept, for example Natural Language Processing. Please [follow](https://www.linkedin.com/in/devanshu125/) me if that sounds interesting.
 
 ## Other stuff
 1. 🎒 I've done my schooling from Indian School Al Wadi Al Kabir, Muscat, Oman. That's where I first found my love for Statistics.
