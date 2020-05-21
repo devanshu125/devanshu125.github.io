@@ -6,7 +6,6 @@ header:
 ---
 
 Hello, world👋<br/>
-
 My name is Devanshu. This section is all about what I've been doing since the past few years.
 
 ## What have I been up to?
