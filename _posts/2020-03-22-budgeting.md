@@ -18,7 +18,4 @@ CRUD application and the user gets 5 categories to choose their spending type:
 
 The user can also keep track of distribution of his/her spending through a portfolio or a comprehensive analysis using bar chart.
 
-Here's a short [video](https://youtu.be/_hMlUxm6W6I) if you want to see my project in live action. Alternatively, you can see the web app in live action by watching this video👇
-<video width="450" height="310" controls>
-  <source src="{{ site.url }}{{ site.baseurl }}/videos/budgeting_live.mp4" type="video/mp4">
-</video>
+Here's a short [video](https://youtu.be/_hMlUxm6W6I) if you want to see my project in live action. 
